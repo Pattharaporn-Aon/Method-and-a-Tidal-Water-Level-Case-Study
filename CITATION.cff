@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: >-
+  Gaussian Process Regression for Reconstructing Missing Values in Sensor
+  Time Series: Method and a Tidal Water-Level Case Study
+message: If you use this repository, please cite it as below.
+type: software
+authors:
+  - given-names: Pattharaporn
+    family-names: Thongnim
+    affiliation: >-
+      Department of Mathematics, Faculty of Science, Burapha University,
+      Chonburi, Thailand
+    email: pattharaporn@buu.ac.th
+repository-code: >-
+  https://github.com/Pattharaporn-Aon/Method-and-a-Tidal-Water-Level-Case-Study
+abstract: >-
+  Data, code and results for a Gaussian process study of missing-value
+  reconstruction in sensor time series, applied to a seven-year tide-gauge
+  record from the Marine Department station at Bang Pakong, Chachoengsao,
+  Thailand.
+keywords:
+  - Gaussian process
+  - time series
+  - missing data
+  - imputation
+  - tide gauge
+  - water level
+license: MIT
+date-released: '2026-09-12'
+version: 1.0.0
