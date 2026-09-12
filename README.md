@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pattharaporn-Aon/Method-and-a-Tidal-Water-Level-Case-Study/blob/main/notebooks/Tidal_Water_Level_Case_Study.ipynb)
+
 # Gaussian Process Regression for Reconstructing Missing Values in Sensor Time Series
 
 Data, code and results for the tidal water-level case study at Bang Pakong, Chachoengsao, Thailand
