@@ -88,3 +88,10 @@ about an hour on a standard Colab CPU; every other step takes a few minutes.
 K. Xu, S. Hu, S. Jin, J. Li, W. Zheng, J. Wang, Y. Zhu, K. Li, A. Ren and Y. Liu,
 "Reconstruction of geodetic time series with missing data and time-varying seasonal signals using
 Gaussian process for machine learning," *GPS Solutions*, vol. 28, Art. no. 79, 2024.
+
+## License
+
+Code in this repository is released under the MIT License. The water-level
+measurements in `data/` are the property of the Marine Department of Thailand
+and are redistributed here for reproducibility; please credit the Marine
+Department when reusing them.
